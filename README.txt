@@ -62,9 +62,7 @@ W obecnej wersji prototypu klucz API Gemini jest wpisywany bezpośrednio w inter
 
 <<<<<<< HEAD
 ## 🎓 Kontekst
-=======
-## Kontekst
->>>>>>> 78b623d4459363093106c148a1c1b0db0ecd6f1a
+
 
 Projekt powstał jako element pracy licencjackiej dotyczącej wykorzystania sztucznej inteligencji we wspieraniu edukacji z zakresu cyberbezpieczeństwa.
 
