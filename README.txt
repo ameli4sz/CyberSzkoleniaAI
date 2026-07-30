@@ -60,8 +60,7 @@ Na podstawie tych parametrów aplikacja buduje prompt, wysyła go do modelu Gemi
 W obecnej wersji prototypu klucz API Gemini jest wpisywany bezpośrednio w interfejsie i przechowywany **lokalnie w przeglądarce użytkownika** (`localStorage`). To rozwiązanie jest wystarczające na potrzeby prototypu w pracy licencjackiej.
 
 
-<<<<<<< HEAD
-## 🎓 Kontekst
+## Kontekst
 
 
 Projekt powstał jako element pracy licencjackiej dotyczącej wykorzystania sztucznej inteligencji we wspieraniu edukacji z zakresu cyberbezpieczeństwa.
